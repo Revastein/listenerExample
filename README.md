@@ -18,5 +18,5 @@
 Для запуска теста из консоли можно использовать команду: `pytest -sv`
 
 ## Автор
-[Ковзель Ян](https://github.com/Revastein)
-[Мой телеграм](https://t.me/mc_donald_junior)
+* [Ковзель Ян](https://github.com/Revastein)
+* [Мой телеграм](https://t.me/mc_donald_junior)
